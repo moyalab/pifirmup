@@ -1,0 +1,51 @@
+{
+  "motor": [
+    {
+      "id": "motor-29",
+      "version": "29",
+      "file": "motor_29v.bin",
+      "tag": "stable",
+      "date": "",
+      "description": "카미봇파이 바퀴/헤드 모터 제어 보드 펌웨어 (최신).",
+      "changelog": []
+    },
+    {
+      "id": "motor-28",
+      "version": "28",
+      "file": "motor_28v.bin",
+      "tag": "legacy",
+      "date": "",
+      "description": "카미봇파이 모터 제어 보드 펌웨어 (이전 버전).",
+      "changelog": []
+    }
+  ],
+  "wireless": [
+    {
+      "id": "wl-33",
+      "version": "33",
+      "file": "app_pi_33.zip",
+      "tag": "stable",
+      "date": "2026-07-13",
+      "description": "카미봇파이 무선/블루투스 모듈 펌웨어 (최신).",
+      "changelog": ["카미봇 이름 변경(1~999)"]
+    },
+    {
+      "id": "wl-31",
+      "version": "31",
+      "file": "app_pi_31.zip",
+      "tag": "stable",
+      "date": "",
+      "description": "카미봇파이 무선/블루투스 모듈 펌웨어 (이전 버전).",
+      "changelog": ["컬러센서 조정"]
+    },
+    {
+      "id": "wl-30",
+      "version": "30",
+      "file": "app_pi_30.zip",
+      "tag": "legacy",
+      "date": "",
+      "description": "카미봇파이 무선/블루투스 모듈 펌웨어.",
+      "changelog": []
+    }
+  ]
+}

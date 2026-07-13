@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Material Symbols "system_update" — 헤더 타이틀 심볼과 동일 -->
+  <rect x="6" y="1.5" width="12" height="21" rx="2.5"
+        fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M12 6.5 v7 M8.5 10 l3.5 3.5 3.5 -3.5"
+        fill="none" stroke="#000" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
